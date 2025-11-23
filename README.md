@@ -1,7 +1,7 @@
 # Hospital Management System
 
 
-🏥 Hospital Management System (HMS)
+🏥 Hospital Management System 
 This project provides a comprehensive system for managing the essential operations of a hospital. The system is modular, organized into several key management components:
 
 1. Patient Management
@@ -13,7 +13,7 @@ This project provides a comprehensive system for managing the essential operatio
 Each management component is built using dedicated Python modules. Currently, data persistence (the database) is handled entirely using Python dictionaries and lists.
 
 ✨ Core Functionalities (Patient & Doctor Modules)
-The Patient Management and Doctor Management modules support standard CRUD (Create, Read, Update, Delete) operations, allowing users to:
+The Patient Management and Doctor Management modules support standard (Create, Read, Update, Delete) operations, allowing users to:
 
 1. Add a new patient or doctor record.
 2. View All patients or doctors currently in the system.
